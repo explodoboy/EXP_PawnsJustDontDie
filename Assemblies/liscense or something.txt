@@ -1,0 +1,3 @@
+The SNS Lethal Threshold fix is free to use by anybody as long as credit to me, explodoboy is given.
+
+Also thanks to dninemfive and Odeum (on Discord) for basically creating the assembly's important code.

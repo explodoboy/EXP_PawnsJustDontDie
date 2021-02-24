@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+<name>Pawns Just Don't Die</name>
+<author>explodoboy</author>
+<packageId>explodoboy.NoFatalThreshold</packageId>
+<url>public.FutureGadgetLab.net</url>
+<supportedVersions><li>1.2</li></supportedVersions>
+<modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+<description>Mod Version: 1.0 "JUST KILL ME ALREADY!"
+This is a very simple mod that prevents most pawns from dying because they've recieved too many bodily injuries. This means that they can only die from bleeing out, losing a vital organ, disease, temperature, or some other thing that causes instantaneous death. This changes nothing else.</description>
+</ModMetaData>
